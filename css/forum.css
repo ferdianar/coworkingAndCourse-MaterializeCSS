@@ -1,0 +1,16 @@
+#chatting    {
+    display: flex;
+    margin-top: 5%;
+}
+#chat    {
+    margin-left: 3%;
+}
+#chat2    {
+    margin-right: 3%;
+}
+#chat h5, #chat2 h5 {
+    font-weight: 600;
+}
+#head    {
+    padding-top: 2%;
+}

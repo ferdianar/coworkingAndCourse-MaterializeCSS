@@ -1,0 +1,51 @@
+#card {
+    display: flex;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.classList {
+    width: 30%;
+    margin-left: 4%;
+}
+.rating {
+    width: 100%;
+}
+#order    {
+    height: 45px;
+    width: 92%;
+    cursor: pointer;
+    padding-left: 0;
+    margin-top: -0.5%;
+    margin-right: 4%;
+    margin-bottom: 4%;
+    margin-left: 4%;
+    border-radius: 4px;
+    background-color: #0000ff;
+    border: 1px solid #0000ff;
+    color: #FFF;
+    font-family: 'Montserrat';
+}
+#order:hover {
+    background-color: #0000cc;
+}
+#plan    {
+    height: 45px;
+    cursor: pointer;
+    margin-bottom: 4%;
+    width: 92%;
+    margin-top: -0.5%;
+    margin-right: 4%;
+    margin-left: 4%;
+    border-radius: 4px;
+    background-color: transparent;
+    border: 1px solid #0000ff;
+    color: #0000ff;
+    font-family: 'Montserrat';
+}
+.des    {
+}
+#cost    {
+    margin-top: -0.5%;
+    margin-left: 4%;
+    margin-right: 20%;
+}

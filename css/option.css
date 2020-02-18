@@ -1,0 +1,10 @@
+#profile    {
+    display: flex;
+}
+
+.photo    {
+    width: 50%;
+}
+.detail     {
+    width: 50%;
+}

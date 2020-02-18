@@ -1,0 +1,11 @@
+#iklan    {
+    height: 400px;
+    width: 69%;
+    margin: auto;
+}
+.cards {
+    transition: 0.7s;
+}
+.cards img {
+    box-shadow: 3px 4px 5px rgba(0,0,0,0.5);
+}
